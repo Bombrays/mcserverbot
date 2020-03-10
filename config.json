@@ -1,0 +1,8 @@
+{
+	"token":"process.env.BOT_TOKEN",
+    "commandPrefix":"/",
+    "ip":"25.43.215.186",
+    "port":"25565",
+    "pingInterval":"30",
+    "embedColor":"7289DA"
+}
